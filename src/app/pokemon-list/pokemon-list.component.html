@@ -1,0 +1,12 @@
+<h2>Pokemons</h2>
+<table>
+  <tbody>
+    <tr *ngFor="let i of [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14]">
+      <ng-container *ngFor="let j of [0,1,2,3,4,5,6,7,8,9]">
+        <td>
+          {{ pokemons[i * 10 + j]?.name }}
+        </td>
+      </ng-container>
+    </tr>
+  </tbody>
+</table>
