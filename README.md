@@ -1,27 +1,64 @@
-# Final
+Proyecto Pokedex: Formulario de Autenticación
+Este proyecto, creado con TypeScript, Node.js, NPM y Angular, implementa un sistema de autenticación donde los usuarios pueden registrarse o iniciar sesión. Una vez autenticados, los usuarios tienen acceso a una Pokedex completa con información detallada de cada Pokémon.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+Características
+Registro de usuarios: Nuevos usuarios pueden crear una cuenta.
+Inicio de sesión: Los usuarios registrados pueden acceder al sistema.
+Pokedex: Los usuarios autenticados pueden explorar la Pokedex.
+Requisitos Previos
+Node.js (v14.x o superior)
+NPM (v6.x o superior)
+Conocimientos básicos de TypeScript y Angular.
+Instalación
+Sigue estos pasos para instalar y ejecutar el proyecto:
 
-## Development server
+Clonar el repositorio:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+markdown
+Copy code
+git clone https://github.com/tu-usuario/proyecto-pokedex.git
+Ir al directorio del proyecto:
 
-## Code scaffolding
+markdown
+Copy code
+cd proyecto-pokedex
+Instalar dependencias:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+markdown
+Copy code
+npm install
+Ejecutar el servidor de desarrollo de Angular:
 
-## Build
+markdown
+Copy code
+ng serve
+Acceso en el navegador:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Abre tu navegador y ve a http://localhost:4200.
+Uso
+Registrarse
+Ve a la página de "Registro".
+Rellena tus datos (nombre de usuario, correo electrónico, contraseña).
+Envía el formulario. Serás redirigido a la página de inicio de sesión si el registro es exitoso.
+Iniciar Sesión
+Si tienes una cuenta, ve a "Iniciar sesión".
+Ingresa tus credenciales.
+Tras verificar tu identidad, tendrás acceso a la Pokedex.
+Explorar la Pokedex
+Con la sesión iniciada, accede a la Pokedex.
+Navega y descubre información sobre los diferentes Pokémon.
+Contribuir
+Si quieres contribuir a este proyecto, sigue estos pasos:
 
-## Running unit tests
+Haz un "Fork" del proyecto.
+Crea tu rama de características (git checkout -b feature/AmazingFeature).
+Confirma tus cambios (git commit -m 'Añadir alguna AmazingFeature').
+"Push" de la rama (git push origin feature/AmazingFeature).
+Abre un "Pull Request".
+Licencia
+Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más información.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contacto
+Nombre del creador: Carlos Lozano
+Enlace del proyecto: https://github.com/tu-usuario/proyecto-pokedex
+Este README fue generado con ❤️ por Carlos en 2023.
