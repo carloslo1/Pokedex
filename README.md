@@ -6,7 +6,6 @@ Este proyecto, basado en TypeScript, Node.js, NPM y Angular, presenta un sistema
 
 - **Registro de Usuarios:** Permite a los nuevos usuarios crear una cuenta.
 - **Inicio de Sesión:** Permite a los usuarios registrados acceder al sistema.
-- **Sesiones Seguras:** Maneja la gestión de sesiones a través de tokens.
 - **Acceso a Pokedex:** Los usuarios autenticados pueden explorar la Pokedex.
 
 ## Prerrequisitos
