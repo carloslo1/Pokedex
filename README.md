@@ -1,6 +1,6 @@
 # Proyecto de Autenticación para Pokedex
 
-Este proyecto, basado en TypeScript, Node.js, NPM y Angular, presenta un sistema de autenticación en el cual los usuarios pueden registrarse o iniciar sesión. Una vez autenticados, los usuarios obtienen acceso a una Pokedex extensa, que ofrece información detallada sobre los Pokémon.
+Este proyecto, basado en TypeScript, Node.js, NPM y Angular, presenta un sistema de autenticación en el cual los usuarios pueden registrarse o iniciar sesión. Una vez autenticados, los usuarios obtienen acceso a una Pokedex extensa, que ofrece información sobre los Pokémons.
 
 ## Características
 
@@ -12,5 +12,5 @@ Este proyecto, basado en TypeScript, Node.js, NPM y Angular, presenta un sistema
 
 Asegúrate de cumplir con los siguientes requisitos:
 
-- Tener instalado Node.js (v14.x o superior) y NPM (v6.x o superior).
+- Tener instalado Node.js (v18.x o superior) y NPM (v6.x o superior).
 - Tener un conocimiento básico de TypeScript y Angular.
